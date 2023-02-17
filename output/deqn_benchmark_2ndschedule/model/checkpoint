@@ -1,0 +1,2 @@
+model_checkpoint_path: "deqn_benchmark_2ndschedule-episode60000"
+all_model_checkpoint_paths: "deqn_benchmark_2ndschedule-episode60000"

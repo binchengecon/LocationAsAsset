@@ -1,0 +1,2 @@
+model_checkpoint_path: "deqn_benchmark-episode60000"
+all_model_checkpoint_paths: "deqn_benchmark-episode60000"
